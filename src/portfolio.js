@@ -135,7 +135,7 @@ const educationInfo = {
         },
         {
             schoolName: "information Technology University",
-            logo: require("./assets/images/images.jpegs"),
+            logo: require("./assets/images/images.jpeg"),
             subHeader: "Masters of Science in Computer Science",
             duration: "April 2020 - April 2022",
             desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
