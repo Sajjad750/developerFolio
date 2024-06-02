@@ -214,15 +214,15 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-    title: "Big Projects",
+    title: "Recent Projects",
     subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
     projects: [{
-            image: require("./assets/images/saayaHealthLogo.webp"),
-            projectName: "Saayahealth",
+            image: require("./assets/images/dk_logo.webp"),
+            projectName: "Dk-Indeklima",
             projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
             footerLink: [{
                     name: "Visit Website",
-                    url: "http://saayahealth.com/"
+                    url: "http://sk-indeklima.dk/"
                 }
                 //  you can add extra buttons here.
             ]
