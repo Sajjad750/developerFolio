@@ -135,7 +135,7 @@ const educationInfo = {
         },
         {
             schoolName: "information Technology University",
-            logo: require("./assets/images/stanfordLogo.png"),
+            logo: require("./assets/images/uog-university-of-gujrat1154.jpg"),
             subHeader: "Masters of Science in Computer Science",
             duration: "April 2020 - April 2022",
             desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -171,14 +171,14 @@ const workExperiences = {
     experience: [{
             role: "CTO at DK-Indeklima",
             company: "DK Indeklima",
-            companylogo: require("./assets/images/quoraLogo.png"),
+            companylogo: require("./assets/images/dk_logo.webp"),
             date: "Nov 2023 , Present",
             desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         },
         {
             role: "Web Developer",
             company: "Barontech Private limited",
-            companylogo: require("./assets/images/facebookLogo.png"),
+            companylogo: require("./assets/images/barontech.webp"),
             date: "Dec 2022 – Present",
             desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             descBullets: [
@@ -189,14 +189,14 @@ const workExperiences = {
         {
             role: "Front-End Developer",
             company: "Pixellete Technologies Inc",
-            companylogo: require("./assets/images/quoraLogo.png"),
+            companylogo: require("./assets/images/qPixelette-Logo-06.png"),
             date: "June 2022 – Nov 2022",
             desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         },
         {
             role: "Software Engineer Intern",
             company: "Rapid Fire Solutions",
-            companylogo: require("./assets/images/airbnbLogo.png"),
+            companylogo: require("./assets/images/final-logo.png"),
             date: "Dec 2019 – March 2020",
             desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         }
