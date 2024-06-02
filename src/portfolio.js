@@ -124,7 +124,7 @@ const educationInfo = {
     display: true, // Set false to hide this section, defaults to true
     schools: [{
             schoolName: "University of Gujrat",
-            logo: require("./assets/images/harvardLogo.png"),
+            logo: require("./assets/images/uog-university-of-gujrat1154.jpg"),
             subHeader: "Bachelors of Science in Computer Science",
             duration: "September 2015 - October 2019",
             desc: "Participated in the research of XXX and published 3 papers.",
@@ -135,7 +135,7 @@ const educationInfo = {
         },
         {
             schoolName: "information Technology University",
-            logo: require("./assets/images/uog-university-of-gujrat1154.jpg"),
+            logo: require("./assets/images/images.jpegs"),
             subHeader: "Masters of Science in Computer Science",
             duration: "April 2020 - April 2022",
             desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
