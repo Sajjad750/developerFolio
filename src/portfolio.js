@@ -189,7 +189,7 @@ const workExperiences = {
         {
             role: "Front-End Developer",
             company: "Pixellete Technologies Inc",
-            companylogo: require("./assets/images/qPixelette-Logo-06.png"),
+            companylogo: require("./assets/images/Pixelette-Logo-06.png"),
             date: "June 2022 – Nov 2022",
             desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         },
