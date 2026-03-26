@@ -222,7 +222,7 @@ const bigProjects = {
             projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
             footerLink: [{
                     name: "Visit Website",
-                    url: "http://sk-indeklima.dk/"
+                    url: "http://dk-indeklima.dk/"
                 }
                 //  you can add extra buttons here.
             ]
